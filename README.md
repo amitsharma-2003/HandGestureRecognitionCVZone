@@ -60,6 +60,8 @@ python hand_gesture_recognition.py
 
 
 
+
+
 Interact with the Program: Perform hand gestures in front of the webcam and observe the corresponding messages being spoken out loud.
 
 

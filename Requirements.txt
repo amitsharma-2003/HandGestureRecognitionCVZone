@@ -1,0 +1,20 @@
+Requirements
+Python 3.x
+OpenCV
+pyttsx3
+CVZone
+
+These are the libraries needed for your project:
+
+opencv-python: OpenCV library for computer vision tasks.
+pyttsx3: Library for text-to-speech conversion.
+cvzone: Library for hand tracking and gesture recognition.
+
+Author
+[Amit Sharma]
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+This project utilizes the CVZone library developed by Murtaza Hassan for hand tracking.

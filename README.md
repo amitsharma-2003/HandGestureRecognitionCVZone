@@ -32,29 +32,28 @@ Follow these steps to run the project on your local machine:
 Download the CVZone library from GitHub or install it using pip:
 
 
-pip install cvzone
-Clone the Repository:
-Clone this repository to your local machine using Git:
+Download CVZone Library: Download the CVZone library from GitHub or install it using pip:
 
-bash
-Copy code
+
+pip install cvzone 
+
+Clone the Repository: Clone this repository to your local machine using Git:
+
+
 git clone https://github.com/amitsharma-2003/HandGestureCVZone.git
-Navigate to the Directory:
-Move into the project directory:
 
-bash
-Copy code
+Navigate to the Directory: Move into the project directory:
+
+
 cd HandGestureCVZone
-Run the Code:
-Execute the Python script to start the hand gesture recognition:
 
-bash
-Copy code
+Run the Code: Execute the Python script to start the hand gesture recognition:
+
+
 python hand_gesture_recognition.py
-Interact with the Program:
-Perform hand gestures in front of the webcam and observe the corresponding messages being spoken out loud.
 
-vbnet
-Copy code
+Interact with the Program: Perform hand gestures in front of the webcam and observe the corresponding messages being spoken out loud.
 
-Feel free to copy and paste this text into your GitHub repository's README file. Adjust any any formatting or repository URLs as needed.
+
+
+Feel free to copy and paste this text into your GitHub repository's README file. Adjust any URLs or repository names as needed.
